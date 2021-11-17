@@ -1,0 +1,168 @@
+.texto1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 40px;
+}
+
+.cajagrande1{
+    width: auto; /* RECOMENDADO*/
+    height: auto;
+    border: 0px solid rgb(248, 219, 146); 
+    display: flex; /*manejar flexbox */
+    justify-content: space-around; /*IZQ A DER */
+    background-color: rgb(213, 227, 248);
+    align-items: center;
+    justify-content: space-around;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.cajagrande1 > div{
+    width: auto;
+    height: auto;
+    border: 0px solid rgb(248, 219, 146) ;
+    padding-top: 20px;
+
+}
+
+.c3{
+    width: auto; /* RECOMENDADO*/
+    height: auto;
+    border: 0px solid rgb(248, 219, 146); 
+    display: flex; /*manejar flexbox */
+    justify-content: space-around; /*IZQ A DER */
+    background-color: rgb(213, 227, 248);
+    align-items: center;
+
+
+}
+
+.c33{
+    width: auto; /* RECOMENDADO*/
+    height: auto;
+    border: 0px solid rgb(248, 219, 146); 
+    display: flex; /*manejar flexbox */
+    justify-content: space-around; /*IZQ A DER */
+    background-color: rgb(213, 227, 248);
+    align-items: center;
+    justify-content: space-around;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.c33 > div{
+    width: auto;
+    height: auto;
+    border: 0px solid rgb(248, 219, 146) ;
+    padding-top: 20px;
+}
+
+
+.cajaGrande{
+    width: auto; /* RECOMENDADO*/
+    height: auto;
+    border: 0px solid rgb(248, 219, 146); 
+    display: flex; /*manejar flexbox */
+    justify-content: space-around; /*IZQ A DER */
+    background-color: rgb(213, 227, 248);
+    align-items: center;
+}
+
+.c2{
+    width: auto; /* RECOMENDADO*/
+    height: auto;
+    border: 0px solid rgb(248, 219, 146); 
+    display: flex; /*manejar flexbox */
+    justify-content: space-around; /*IZQ A DER */
+    background-color: rgb(213, 227, 248);
+    align-items: center;
+}
+
+.c22{
+    width: auto; /* RECOMENDADO*/
+    height: auto;
+    border: 0px solid rgb(248, 219, 146); 
+    display: flex; /*manejar flexbox */
+    justify-content: space-around; /*IZQ A DER */
+    background-color: rgb(213, 227, 248);
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+
+
+}
+
+.c22 > div{
+    width: auto;
+    height: 40%;
+    border: 0px solid rgb(248, 219, 146) ;
+    padding-top: 20px;
+    justify-content: space-around;
+    text-align: left;
+}
+
+.titulo2{
+    color: black !important;
+}
+
+.texto3{
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 40px;
+    margin-left: 5%;
+}
+
+
+
+.textofooter {
+    width: 100%;
+    padding-top: 5%;
+    text-align: left;
+    background-color: rgb(131, 168, 236);
+    border: 1px solid cornflowerblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 2%;
+}
+
+.texto10{
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 40px;
+    margin-left: 5%;
+}
+
+.texto22{
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 10px;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.texto11{
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 40px;
+    margin-left: 5%;
+}
+ 
+.texto13{
+   margin-left: 5%;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   text-align: left;
+}
+
+.textofooter {
+    width: 100%;
+    padding-top: 0%;
+    text-align: left;
+    background-color: rgb(131, 168, 236);
+    border: 1px solid cornflowerblue;
+    margin-left: 2%;
+}
+
+.texto222{
+    background-position: center;
+    margin-left: 30%;
+}
